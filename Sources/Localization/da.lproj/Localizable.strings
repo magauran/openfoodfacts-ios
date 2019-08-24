@@ -14,7 +14,7 @@
 "generic.search" = "Søg";
 "generic.cancel" = "Annullér";
 "generic.save" = "Gem";
-"generic.cancel" = "Annullér";
+"generic.cancel" = "Cancel";
 "generic.ok" = "OK";
 
 // Product Search
@@ -283,7 +283,7 @@
 "settings.user-profile" = "Din bidragsyderkonto";
 "settings.credits.title" = "Krediteringer";
 "settings.scan-on-launch.title" = "Vis Scan På App Launch";
-"settings.sections.discover" = "Opdag";
+"settings.sections.discover" = "Discover";
 "settings.contribute.how-to-contribute" = "Hvordan Man Bidrager";
 "settings.contribute.support-open-food-facts" = "Støt Open Food Facts";
 "settings.contribute.translate-open-food-facts" = "Oversæt Open Food Facts";
