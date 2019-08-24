@@ -14,7 +14,7 @@
 "generic.search" = "Поиск";
 "generic.cancel" = "Отмена";
 "generic.save" = "Сохранить";
-"generic.cancel" = "Отмена";
+"generic.cancel" = "Cancel";
 "generic.ok" = "Ок";
 
 // Product Search
@@ -283,7 +283,7 @@
 "settings.user-profile" = "Your contributor account";
 "settings.credits.title" = "Благодарности";
 "settings.scan-on-launch.title" = "Запуск сканирования при запуске приложения";
-"settings.sections.discover" = "О проекте";
+"settings.sections.discover" = "Discover";
 "settings.contribute.how-to-contribute" = "Как принять участие";
 "settings.contribute.support-open-food-facts" = "Поддержать Open Food Facts Support";
 "settings.contribute.translate-open-food-facts" = "Перевести Open Food Facts";
