@@ -3,14 +3,14 @@
 
 -- Previously on Open Food Facts --
 
-1. Сверхбыстрое, автономное сканирование штрих-кода по всей планете. Улучшает выбор продуктов питания в любых условиях.
-2. Сканируйте, получая качество питательных свойств с помощью Nutri-Score и определяя ультра-полуфабрикаты с помощью NOVA.
-3. На устройстве, неограниченная история продукта.
-4. Мгновенный поиск по 800 000 продуктам.
-5. Задайте предупреждения об аллергенах. 
+1. Ultra-fast, offline barcode scan for the whole planet. Make better food choices in any condition.
+2. Scan to get the nutritional quality with the Nutri-Score and to identify ultra-processed foods with NOVA.
+3. On-device, unlimited product history.
+4. Instant search through 800 000 products.
+5. Set alerts for allergens. 
 
-Большое спасибо волонтёрам и участникам Open Food Facts, создавшим эти новые функции!
+Many thanks to the volunteers and contributors of Open Food Facts who created these new features!
 
-Open Food Facts — некоммерческий проект, раскрывающий данные о пище по всему миру. Присоединяйтесь к нам на https://en.openfoodfacts.org
+Open Food Facts is a non-profit project to open food data from around the world. Join us on https://en.openfoodfacts.org
 
-Отсканируйте штрих-код на упаковке продуктов питания, чтобы узнать, какие продукты полезны для вас (качество питания: Nutri-Score, группа NOVA, добавки и предупреждения об аллергенах) и для планеты!
+Scan the barcode of food products to know which products are good for you (nutritional quality: Nutri-Score, NOVA group, additives and allergen alerts) and the planet!
